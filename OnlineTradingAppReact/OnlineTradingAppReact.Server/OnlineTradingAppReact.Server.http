@@ -1,0 +1,6 @@
+@OnlineTradingAppReact.Server_HostAddress = http://localhost:5225
+
+GET {{OnlineTradingAppReact.Server_HostAddress}}/
+Accept: application/json
+
+###

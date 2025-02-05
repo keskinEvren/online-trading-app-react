@@ -1,0 +1,24 @@
+{
+  "Version": 1,
+  "Hash": "5Jj7Ki2r4rMFjdSy2JSa4/2JlSK6O9n0nc9Z5jG7Ipg=",
+  "Source": "OnlineTradingAppReact.Server",
+  "BasePath": "_content/OnlineTradingAppReact.Server",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [
+    {
+      "Identity": "C:\\Users\\Evren\\Desktop\\OnlineTradingAppReact\\onlinetradingappreact.client\\onlinetradingappreact.client.esproj",
+      "Version": 2,
+      "Source": "onlinetradingappreact.client",
+      "GetPublishAssetsTargets": "GetCurrentProjectPublishStaticWebAssetItems",
+      "AdditionalPublishProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalPublishPropertiesToRemove": "WebPublishProfileFile;TargetFramework",
+      "GetBuildAssetsTargets": "GetCurrentProjectBuildStaticWebAssetItems",
+      "AdditionalBuildProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalBuildPropertiesToRemove": "WebPublishProfileFile;TargetFramework"
+    }
+  ],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

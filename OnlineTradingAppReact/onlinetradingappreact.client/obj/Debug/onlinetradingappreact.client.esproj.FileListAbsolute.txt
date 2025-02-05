@@ -1,0 +1,3 @@
+C:\Users\erenk\OneDrive\Masaüstü\OnlineTradingAppReact\OnlineTradingAppReact\onlinetradingappreact.client\obj\Debug\onlinetradingappreact.client.esproj.CoreCompileInputs.cache
+C:\Users\Evren\Downloads\OnlineTradingAppReact-20250120T044752Z-001\OnlineTradingAppReact\OnlineTradingAppReact\onlinetradingappreact.client\obj\Debug\onlinetradingappreact.client.esproj.CoreCompileInputs.cache
+C:\Users\Evren\Desktop\OnlineTradingAppReact\onlinetradingappreact.client\obj\Debug\onlinetradingappreact.client.esproj.CoreCompileInputs.cache

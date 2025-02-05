@@ -1,0 +1,857 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Evren\\Desktop\\OnlineTradingAppReact\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1FB96D72-E839-44C2-B698-A2164B1D7357}|OnlineTradingAppReact.Server\\OnlineTradingAppReact.Server.csproj|c:\\users\\evren\\desktop\\onlinetradingappreact\\onlinetradingappreact.server\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{1FB96D72-E839-44C2-B698-A2164B1D7357}|OnlineTradingAppReact.Server\\OnlineTradingAppReact.Server.csproj|solutionrelative:onlinetradingappreact.server\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FB96D72-E839-44C2-B698-A2164B1D7357}|OnlineTradingAppReact.Server\\OnlineTradingAppReact.Server.csproj|c:\\users\\evren\\desktop\\onlinetradingappreact\\onlinetradingappreact.server\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1FB96D72-E839-44C2-B698-A2164B1D7357}|OnlineTradingAppReact.Server\\OnlineTradingAppReact.Server.csproj|solutionrelative:onlinetradingappreact.server\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B4D1CF0-0B82-45E3-A369-B4FFA39315DF}|onlinetradingappreact.client\\onlinetradingappreact.client.esproj|c:\\users\\evren\\desktop\\onlinetradingappreact\\onlinetradingappreact.client\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9B4D1CF0-0B82-45E3-A369-B4FFA39315DF}|onlinetradingappreact.client\\onlinetradingappreact.client.esproj|solutionrelative:onlinetradingappreact.client\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B4D1CF0-0B82-45E3-A369-B4FFA39315DF}|onlinetradingappreact.client\\onlinetradingappreact.client.esproj|c:\\users\\evren\\desktop\\onlinetradingappreact\\onlinetradingappreact.client\\src\\components\\layout\\navbar.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{9B4D1CF0-0B82-45E3-A369-B4FFA39315DF}|onlinetradingappreact.client\\onlinetradingappreact.client.esproj|solutionrelative:onlinetradingappreact.client\\src\\components\\layout\\navbar.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FB96D72-E839-44C2-B698-A2164B1D7357}|OnlineTradingAppReact.Server\\OnlineTradingAppReact.Server.csproj|c:\\users\\evren\\desktop\\onlinetradingappreact\\onlinetradingappreact.server\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1FB96D72-E839-44C2-B698-A2164B1D7357}|OnlineTradingAppReact.Server\\OnlineTradingAppReact.Server.csproj|solutionrelative:onlinetradingappreact.server\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FB96D72-E839-44C2-B698-A2164B1D7357}|OnlineTradingAppReact.Server\\OnlineTradingAppReact.Server.csproj|c:\\users\\evren\\desktop\\onlinetradingappreact\\onlinetradingappreact.server\\controllers\\sharecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1FB96D72-E839-44C2-B698-A2164B1D7357}|OnlineTradingAppReact.Server\\OnlineTradingAppReact.Server.csproj|solutionrelative:onlinetradingappreact.server\\controllers\\sharecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B4D1CF0-0B82-45E3-A369-B4FFA39315DF}|onlinetradingappreact.client\\onlinetradingappreact.client.esproj|c:\\users\\evren\\desktop\\onlinetradingappreact\\onlinetradingappreact.client\\src\\components\\transaction\\buyshare.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{9B4D1CF0-0B82-45E3-A369-B4FFA39315DF}|onlinetradingappreact.client\\onlinetradingappreact.client.esproj|solutionrelative:onlinetradingappreact.client\\src\\components\\transaction\\buyshare.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B4D1CF0-0B82-45E3-A369-B4FFA39315DF}|onlinetradingappreact.client\\onlinetradingappreact.client.esproj|c:\\users\\evren\\desktop\\onlinetradingappreact\\onlinetradingappreact.client\\src\\components\\share\\sharecreate.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{9B4D1CF0-0B82-45E3-A369-B4FFA39315DF}|onlinetradingappreact.client\\onlinetradingappreact.client.esproj|solutionrelative:onlinetradingappreact.client\\src\\components\\share\\sharecreate.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B4D1CF0-0B82-45E3-A369-B4FFA39315DF}|onlinetradingappreact.client\\onlinetradingappreact.client.esproj|c:\\users\\evren\\desktop\\onlinetradingappreact\\onlinetradingappreact.client\\src\\components\\transaction\\sellshare.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{9B4D1CF0-0B82-45E3-A369-B4FFA39315DF}|onlinetradingappreact.client\\onlinetradingappreact.client.esproj|solutionrelative:onlinetradingappreact.client\\src\\components\\transaction\\sellshare.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B4D1CF0-0B82-45E3-A369-B4FFA39315DF}|onlinetradingappreact.client\\onlinetradingappreact.client.esproj|c:\\users\\evren\\desktop\\onlinetradingappreact\\onlinetradingappreact.client\\eslint.config.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{9B4D1CF0-0B82-45E3-A369-B4FFA39315DF}|onlinetradingappreact.client\\onlinetradingappreact.client.esproj|solutionrelative:onlinetradingappreact.client\\eslint.config.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B4D1CF0-0B82-45E3-A369-B4FFA39315DF}|onlinetradingappreact.client\\onlinetradingappreact.client.esproj|c:\\users\\evren\\desktop\\onlinetradingappreact\\onlinetradingappreact.client\\src\\components\\transaction\\transactiondetails.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{9B4D1CF0-0B82-45E3-A369-B4FFA39315DF}|onlinetradingappreact.client\\onlinetradingappreact.client.esproj|solutionrelative:onlinetradingappreact.client\\src\\components\\transaction\\transactiondetails.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FB96D72-E839-44C2-B698-A2164B1D7357}|OnlineTradingAppReact.Server\\OnlineTradingAppReact.Server.csproj|c:\\users\\evren\\desktop\\onlinetradingappreact\\onlinetradingappreact.server\\migrations\\20250120045538_initialcreateee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1FB96D72-E839-44C2-B698-A2164B1D7357}|OnlineTradingAppReact.Server\\OnlineTradingAppReact.Server.csproj|solutionrelative:onlinetradingappreact.server\\migrations\\20250120045538_initialcreateee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FB96D72-E839-44C2-B698-A2164B1D7357}|OnlineTradingAppReact.Server\\OnlineTradingAppReact.Server.csproj|c:\\users\\evren\\desktop\\onlinetradingappreact\\onlinetradingappreact.server\\onlinetradingappreact.server.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{1FB96D72-E839-44C2-B698-A2164B1D7357}|OnlineTradingAppReact.Server\\OnlineTradingAppReact.Server.csproj|solutionrelative:onlinetradingappreact.server\\onlinetradingappreact.server.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B4D1CF0-0B82-45E3-A369-B4FFA39315DF}|onlinetradingappreact.client\\onlinetradingappreact.client.esproj|c:\\users\\evren\\desktop\\onlinetradingappreact\\onlinetradingappreact.client\\src\\components\\portfolio\\portfolioedit.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{9B4D1CF0-0B82-45E3-A369-B4FFA39315DF}|onlinetradingappreact.client\\onlinetradingappreact.client.esproj|solutionrelative:onlinetradingappreact.client\\src\\components\\portfolio\\portfolioedit.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B4D1CF0-0B82-45E3-A369-B4FFA39315DF}|onlinetradingappreact.client\\onlinetradingappreact.client.esproj|c:\\users\\evren\\desktop\\onlinetradingappreact\\onlinetradingappreact.client\\src\\components\\user\\userlist.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{9B4D1CF0-0B82-45E3-A369-B4FFA39315DF}|onlinetradingappreact.client\\onlinetradingappreact.client.esproj|solutionrelative:onlinetradingappreact.client\\src\\components\\user\\userlist.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B4D1CF0-0B82-45E3-A369-B4FFA39315DF}|onlinetradingappreact.client\\onlinetradingappreact.client.esproj|c:\\users\\evren\\desktop\\onlinetradingappreact\\onlinetradingappreact.client\\src\\components\\user\\usercreate.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{9B4D1CF0-0B82-45E3-A369-B4FFA39315DF}|onlinetradingappreact.client\\onlinetradingappreact.client.esproj|solutionrelative:onlinetradingappreact.client\\src\\components\\user\\usercreate.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B4D1CF0-0B82-45E3-A369-B4FFA39315DF}|onlinetradingappreact.client\\onlinetradingappreact.client.esproj|c:\\users\\evren\\desktop\\onlinetradingappreact\\onlinetradingappreact.client\\src\\services\\userservice.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{9B4D1CF0-0B82-45E3-A369-B4FFA39315DF}|onlinetradingappreact.client\\onlinetradingappreact.client.esproj|solutionrelative:onlinetradingappreact.client\\src\\services\\userservice.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B4D1CF0-0B82-45E3-A369-B4FFA39315DF}|onlinetradingappreact.client\\onlinetradingappreact.client.esproj|c:\\users\\evren\\desktop\\onlinetradingappreact\\onlinetradingappreact.client\\src\\services\\api.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{9B4D1CF0-0B82-45E3-A369-B4FFA39315DF}|onlinetradingappreact.client\\onlinetradingappreact.client.esproj|solutionrelative:onlinetradingappreact.client\\src\\services\\api.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B4D1CF0-0B82-45E3-A369-B4FFA39315DF}|onlinetradingappreact.client\\onlinetradingappreact.client.esproj|c:\\users\\evren\\desktop\\onlinetradingappreact\\onlinetradingappreact.client\\src\\app.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{9B4D1CF0-0B82-45E3-A369-B4FFA39315DF}|onlinetradingappreact.client\\onlinetradingappreact.client.esproj|solutionrelative:onlinetradingappreact.client\\src\\app.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|c:\\Users\\erenk\\source\\repos\\OnlineTradingAppReact\\onlinetradingappreact.client\\node_modules\\react-dom\\cjs\\react-dom.development.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B4D1CF0-0B82-45E3-A369-B4FFA39315DF}|onlinetradingappreact.client\\onlinetradingappreact.client.esproj|c:\\users\\evren\\desktop\\onlinetradingappreact\\onlinetradingappreact.client\\src\\components\\user\\userdetails.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{9B4D1CF0-0B82-45E3-A369-B4FFA39315DF}|onlinetradingappreact.client\\onlinetradingappreact.client.esproj|solutionrelative:onlinetradingappreact.client\\src\\components\\user\\userdetails.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B4D1CF0-0B82-45E3-A369-B4FFA39315DF}|onlinetradingappreact.client\\onlinetradingappreact.client.esproj|c:\\users\\evren\\desktop\\onlinetradingappreact\\onlinetradingappreact.client\\src\\components\\user\\useredit.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{9B4D1CF0-0B82-45E3-A369-B4FFA39315DF}|onlinetradingappreact.client\\onlinetradingappreact.client.esproj|solutionrelative:onlinetradingappreact.client\\src\\components\\user\\useredit.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B4D1CF0-0B82-45E3-A369-B4FFA39315DF}|onlinetradingappreact.client\\onlinetradingappreact.client.esproj|c:\\users\\evren\\desktop\\onlinetradingappreact\\onlinetradingappreact.client\\src\\components\\transaction\\transactionlist.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{9B4D1CF0-0B82-45E3-A369-B4FFA39315DF}|onlinetradingappreact.client\\onlinetradingappreact.client.esproj|solutionrelative:onlinetradingappreact.client\\src\\components\\transaction\\transactionlist.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B4D1CF0-0B82-45E3-A369-B4FFA39315DF}|onlinetradingappreact.client\\onlinetradingappreact.client.esproj|c:\\users\\evren\\desktop\\onlinetradingappreact\\onlinetradingappreact.client\\src\\components\\share\\sharelist.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{9B4D1CF0-0B82-45E3-A369-B4FFA39315DF}|onlinetradingappreact.client\\onlinetradingappreact.client.esproj|solutionrelative:onlinetradingappreact.client\\src\\components\\share\\sharelist.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B4D1CF0-0B82-45E3-A369-B4FFA39315DF}|onlinetradingappreact.client\\onlinetradingappreact.client.esproj|c:\\users\\evren\\desktop\\onlinetradingappreact\\onlinetradingappreact.client\\src\\components\\share\\shareedit.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{9B4D1CF0-0B82-45E3-A369-B4FFA39315DF}|onlinetradingappreact.client\\onlinetradingappreact.client.esproj|solutionrelative:onlinetradingappreact.client\\src\\components\\share\\shareedit.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B4D1CF0-0B82-45E3-A369-B4FFA39315DF}|onlinetradingappreact.client\\onlinetradingappreact.client.esproj|c:\\users\\evren\\desktop\\onlinetradingappreact\\onlinetradingappreact.client\\src\\components\\share\\sharedetails.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{9B4D1CF0-0B82-45E3-A369-B4FFA39315DF}|onlinetradingappreact.client\\onlinetradingappreact.client.esproj|solutionrelative:onlinetradingappreact.client\\src\\components\\share\\sharedetails.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B4D1CF0-0B82-45E3-A369-B4FFA39315DF}|onlinetradingappreact.client\\onlinetradingappreact.client.esproj|c:\\users\\evren\\desktop\\onlinetradingappreact\\onlinetradingappreact.client\\src\\components\\portfolio\\portfoliolist.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{9B4D1CF0-0B82-45E3-A369-B4FFA39315DF}|onlinetradingappreact.client\\onlinetradingappreact.client.esproj|solutionrelative:onlinetradingappreact.client\\src\\components\\portfolio\\portfoliolist.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B4D1CF0-0B82-45E3-A369-B4FFA39315DF}|onlinetradingappreact.client\\onlinetradingappreact.client.esproj|c:\\users\\evren\\desktop\\onlinetradingappreact\\onlinetradingappreact.client\\src\\components\\portfolio\\portfoliodetails.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{9B4D1CF0-0B82-45E3-A369-B4FFA39315DF}|onlinetradingappreact.client\\onlinetradingappreact.client.esproj|solutionrelative:onlinetradingappreact.client\\src\\components\\portfolio\\portfoliodetails.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B4D1CF0-0B82-45E3-A369-B4FFA39315DF}|onlinetradingappreact.client\\onlinetradingappreact.client.esproj|c:\\users\\evren\\desktop\\onlinetradingappreact\\onlinetradingappreact.client\\src\\components\\portfolio\\portfoliocreate.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{9B4D1CF0-0B82-45E3-A369-B4FFA39315DF}|onlinetradingappreact.client\\onlinetradingappreact.client.esproj|solutionrelative:onlinetradingappreact.client\\src\\components\\portfolio\\portfoliocreate.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B4D1CF0-0B82-45E3-A369-B4FFA39315DF}|onlinetradingappreact.client\\onlinetradingappreact.client.esproj|c:\\users\\evren\\desktop\\onlinetradingappreact\\onlinetradingappreact.client\\src\\main.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{9B4D1CF0-0B82-45E3-A369-B4FFA39315DF}|onlinetradingappreact.client\\onlinetradingappreact.client.esproj|solutionrelative:onlinetradingappreact.client\\src\\main.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B4D1CF0-0B82-45E3-A369-B4FFA39315DF}|onlinetradingappreact.client\\onlinetradingappreact.client.esproj|c:\\users\\evren\\desktop\\onlinetradingappreact\\onlinetradingappreact.client\\src\\services\\transactionservice.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{9B4D1CF0-0B82-45E3-A369-B4FFA39315DF}|onlinetradingappreact.client\\onlinetradingappreact.client.esproj|solutionrelative:onlinetradingappreact.client\\src\\services\\transactionservice.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B4D1CF0-0B82-45E3-A369-B4FFA39315DF}|onlinetradingappreact.client\\onlinetradingappreact.client.esproj|c:\\users\\evren\\desktop\\onlinetradingappreact\\onlinetradingappreact.client\\src\\services\\shareservice.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{9B4D1CF0-0B82-45E3-A369-B4FFA39315DF}|onlinetradingappreact.client\\onlinetradingappreact.client.esproj|solutionrelative:onlinetradingappreact.client\\src\\services\\shareservice.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B4D1CF0-0B82-45E3-A369-B4FFA39315DF}|onlinetradingappreact.client\\onlinetradingappreact.client.esproj|c:\\users\\evren\\desktop\\onlinetradingappreact\\onlinetradingappreact.client\\src\\services\\portfolioservice.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{9B4D1CF0-0B82-45E3-A369-B4FFA39315DF}|onlinetradingappreact.client\\onlinetradingappreact.client.esproj|solutionrelative:onlinetradingappreact.client\\src\\services\\portfolioservice.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B4D1CF0-0B82-45E3-A369-B4FFA39315DF}|onlinetradingappreact.client\\onlinetradingappreact.client.esproj|c:\\users\\evren\\desktop\\onlinetradingappreact\\onlinetradingappreact.client\\onlinetradingappreact.client.esproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{9B4D1CF0-0B82-45E3-A369-B4FFA39315DF}|onlinetradingappreact.client\\onlinetradingappreact.client.esproj|solutionrelative:onlinetradingappreact.client\\onlinetradingappreact.client.esproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B4D1CF0-0B82-45E3-A369-B4FFA39315DF}|onlinetradingappreact.client\\onlinetradingappreact.client.esproj|c:\\users\\evren\\desktop\\onlinetradingappreact\\onlinetradingappreact.client\\vite.config.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{9B4D1CF0-0B82-45E3-A369-B4FFA39315DF}|onlinetradingappreact.client\\onlinetradingappreact.client.esproj|solutionrelative:onlinetradingappreact.client\\vite.config.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B4D1CF0-0B82-45E3-A369-B4FFA39315DF}|onlinetradingappreact.client\\onlinetradingappreact.client.esproj|c:\\users\\evren\\desktop\\onlinetradingappreact\\onlinetradingappreact.client\\changelog.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{9B4D1CF0-0B82-45E3-A369-B4FFA39315DF}|onlinetradingappreact.client\\onlinetradingappreact.client.esproj|solutionrelative:onlinetradingappreact.client\\changelog.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FB96D72-E839-44C2-B698-A2164B1D7357}|OnlineTradingAppReact.Server\\OnlineTradingAppReact.Server.csproj|c:\\users\\evren\\desktop\\onlinetradingappreact\\onlinetradingappreact.server\\models\\apiresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1FB96D72-E839-44C2-B698-A2164B1D7357}|OnlineTradingAppReact.Server\\OnlineTradingAppReact.Server.csproj|solutionrelative:onlinetradingappreact.server\\models\\apiresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FB96D72-E839-44C2-B698-A2164B1D7357}|OnlineTradingAppReact.Server\\OnlineTradingAppReact.Server.csproj|c:\\users\\evren\\desktop\\onlinetradingappreact\\onlinetradingappreact.server\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{1FB96D72-E839-44C2-B698-A2164B1D7357}|OnlineTradingAppReact.Server\\OnlineTradingAppReact.Server.csproj|solutionrelative:onlinetradingappreact.server\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B4D1CF0-0B82-45E3-A369-B4FFA39315DF}|onlinetradingappreact.client\\onlinetradingappreact.client.esproj|c:\\users\\evren\\desktop\\onlinetradingappreact\\onlinetradingappreact.client\\.vscode\\launch.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{9B4D1CF0-0B82-45E3-A369-B4FFA39315DF}|onlinetradingappreact.client\\onlinetradingappreact.client.esproj|solutionrelative:onlinetradingappreact.client\\.vscode\\launch.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FB96D72-E839-44C2-B698-A2164B1D7357}|OnlineTradingAppReact.Server\\OnlineTradingAppReact.Server.csproj|c:\\users\\evren\\desktop\\onlinetradingappreact\\onlinetradingappreact.server\\onlinetradingappreact.server.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{1FB96D72-E839-44C2-B698-A2164B1D7357}|OnlineTradingAppReact.Server\\OnlineTradingAppReact.Server.csproj|solutionrelative:onlinetradingappreact.server\\onlinetradingappreact.server.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FB96D72-E839-44C2-B698-A2164B1D7357}|OnlineTradingAppReact.Server\\OnlineTradingAppReact.Server.csproj|c:\\users\\evren\\desktop\\onlinetradingappreact\\onlinetradingappreact.server\\controllers\\portfoliosharecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1FB96D72-E839-44C2-B698-A2164B1D7357}|OnlineTradingAppReact.Server\\OnlineTradingAppReact.Server.csproj|solutionrelative:onlinetradingappreact.server\\controllers\\portfoliosharecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FB96D72-E839-44C2-B698-A2164B1D7357}|OnlineTradingAppReact.Server\\OnlineTradingAppReact.Server.csproj|c:\\users\\evren\\desktop\\onlinetradingappreact\\onlinetradingappreact.server\\controllers\\transactioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1FB96D72-E839-44C2-B698-A2164B1D7357}|OnlineTradingAppReact.Server\\OnlineTradingAppReact.Server.csproj|solutionrelative:onlinetradingappreact.server\\controllers\\transactioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FB96D72-E839-44C2-B698-A2164B1D7357}|OnlineTradingAppReact.Server\\OnlineTradingAppReact.Server.csproj|c:\\users\\evren\\desktop\\onlinetradingappreact\\onlinetradingappreact.server\\controllers\\portfoliocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1FB96D72-E839-44C2-B698-A2164B1D7357}|OnlineTradingAppReact.Server\\OnlineTradingAppReact.Server.csproj|solutionrelative:onlinetradingappreact.server\\controllers\\portfoliocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FB96D72-E839-44C2-B698-A2164B1D7357}|OnlineTradingAppReact.Server\\OnlineTradingAppReact.Server.csproj|c:\\users\\evren\\desktop\\onlinetradingappreact\\onlinetradingappreact.server\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1FB96D72-E839-44C2-B698-A2164B1D7357}|OnlineTradingAppReact.Server\\OnlineTradingAppReact.Server.csproj|solutionrelative:onlinetradingappreact.server\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FB96D72-E839-44C2-B698-A2164B1D7357}|OnlineTradingAppReact.Server\\OnlineTradingAppReact.Server.csproj|c:\\users\\evren\\desktop\\onlinetradingappreact\\onlinetradingappreact.server\\models\\share.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1FB96D72-E839-44C2-B698-A2164B1D7357}|OnlineTradingAppReact.Server\\OnlineTradingAppReact.Server.csproj|solutionrelative:onlinetradingappreact.server\\models\\share.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FB96D72-E839-44C2-B698-A2164B1D7357}|OnlineTradingAppReact.Server\\OnlineTradingAppReact.Server.csproj|c:\\users\\evren\\desktop\\onlinetradingappreact\\onlinetradingappreact.server\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1FB96D72-E839-44C2-B698-A2164B1D7357}|OnlineTradingAppReact.Server\\OnlineTradingAppReact.Server.csproj|solutionrelative:onlinetradingappreact.server\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FB96D72-E839-44C2-B698-A2164B1D7357}|OnlineTradingAppReact.Server\\OnlineTradingAppReact.Server.csproj|c:\\users\\evren\\desktop\\onlinetradingappreact\\onlinetradingappreact.server\\models\\transaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1FB96D72-E839-44C2-B698-A2164B1D7357}|OnlineTradingAppReact.Server\\OnlineTradingAppReact.Server.csproj|solutionrelative:onlinetradingappreact.server\\models\\transaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FB96D72-E839-44C2-B698-A2164B1D7357}|OnlineTradingAppReact.Server\\OnlineTradingAppReact.Server.csproj|c:\\users\\evren\\desktop\\onlinetradingappreact\\onlinetradingappreact.server\\models\\portfolioshare.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1FB96D72-E839-44C2-B698-A2164B1D7357}|OnlineTradingAppReact.Server\\OnlineTradingAppReact.Server.csproj|solutionrelative:onlinetradingappreact.server\\models\\portfolioshare.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FB96D72-E839-44C2-B698-A2164B1D7357}|OnlineTradingAppReact.Server\\OnlineTradingAppReact.Server.csproj|c:\\users\\evren\\desktop\\onlinetradingappreact\\onlinetradingappreact.server\\models\\portfolio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1FB96D72-E839-44C2-B698-A2164B1D7357}|OnlineTradingAppReact.Server\\OnlineTradingAppReact.Server.csproj|solutionrelative:onlinetradingappreact.server\\models\\portfolio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\erenk\\source\\repos\\OnlineTradingAppReact\\OnlineTradingAppReact.Server\\Migrations\\20250112182040_InitialCreate2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\erenk\\source\\repos\\OnlineTradingAppReact\\OnlineTradingAppReact.Server\\Migrations\\20250112172021_InitialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FB96D72-E839-44C2-B698-A2164B1D7357}|OnlineTradingAppReact.Server\\OnlineTradingAppReact.Server.csproj|c:\\users\\evren\\desktop\\onlinetradingappreact\\onlinetradingappreact.server\\migrations\\20250116180413_initialcreateaaa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1FB96D72-E839-44C2-B698-A2164B1D7357}|OnlineTradingAppReact.Server\\OnlineTradingAppReact.Server.csproj|solutionrelative:onlinetradingappreact.server\\migrations\\20250116180413_initialcreateaaa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "index.html",
+              "DocumentMoniker": "C:\\Users\\Evren\\Desktop\\OnlineTradingAppReact\\onlinetradingappreact.client\\index.html",
+              "RelativeDocumentMoniker": "onlinetradingappreact.client\\index.html",
+              "ToolTip": "C:\\Users\\Evren\\Desktop\\OnlineTradingAppReact\\onlinetradingappreact.client\\index.html",
+              "RelativeToolTip": "onlinetradingappreact.client\\index.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-01-12T20:30:41.358Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Navbar.jsx",
+              "DocumentMoniker": "C:\\Users\\Evren\\Desktop\\OnlineTradingAppReact\\onlinetradingappreact.client\\src\\components\\layout\\Navbar.jsx",
+              "RelativeDocumentMoniker": "onlinetradingappreact.client\\src\\components\\layout\\Navbar.jsx",
+              "ToolTip": "C:\\Users\\Evren\\Desktop\\OnlineTradingAppReact\\onlinetradingappreact.client\\src\\components\\layout\\Navbar.jsx",
+              "RelativeToolTip": "onlinetradingappreact.client\\src\\components\\layout\\Navbar.jsx",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAswCAAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2025-01-12T19:33:50.893Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "userService.js",
+              "DocumentMoniker": "C:\\Users\\Evren\\Desktop\\OnlineTradingAppReact\\onlinetradingappreact.client\\src\\services\\userService.js",
+              "RelativeDocumentMoniker": "onlinetradingappreact.client\\src\\services\\userService.js",
+              "ToolTip": "C:\\Users\\Evren\\Desktop\\OnlineTradingAppReact\\onlinetradingappreact.client\\src\\services\\userService.js",
+              "RelativeToolTip": "onlinetradingappreact.client\\src\\services\\userService.js",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABQAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-01-12T20:19:05.919Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "20250120045538_InitialCreateee.cs",
+              "DocumentMoniker": "C:\\Users\\Evren\\Desktop\\OnlineTradingAppReact\\OnlineTradingAppReact.Server\\Migrations\\20250120045538_InitialCreateee.cs",
+              "RelativeDocumentMoniker": "OnlineTradingAppReact.Server\\Migrations\\20250120045538_InitialCreateee.cs",
+              "ToolTip": "C:\\Users\\Evren\\Desktop\\OnlineTradingAppReact\\OnlineTradingAppReact.Server\\Migrations\\20250120045538_InitialCreateee.cs",
+              "RelativeToolTip": "OnlineTradingAppReact.Server\\Migrations\\20250120045538_InitialCreateee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-20T04:55:38.645Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Evren\\Desktop\\OnlineTradingAppReact\\OnlineTradingAppReact.Server\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "OnlineTradingAppReact.Server\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\Evren\\Desktop\\OnlineTradingAppReact\\OnlineTradingAppReact.Server\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "OnlineTradingAppReact.Server\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-12T17:07:56.694Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Evren\\Desktop\\OnlineTradingAppReact\\OnlineTradingAppReact.Server\\appsettings.json",
+              "RelativeDocumentMoniker": "OnlineTradingAppReact.Server\\appsettings.json",
+              "ToolTip": "C:\\Users\\Evren\\Desktop\\OnlineTradingAppReact\\OnlineTradingAppReact.Server\\appsettings.json",
+              "RelativeToolTip": "OnlineTradingAppReact.Server\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-01-12T17:04:42.173Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "SellShare.jsx",
+              "DocumentMoniker": "C:\\Users\\Evren\\Desktop\\OnlineTradingAppReact\\onlinetradingappreact.client\\src\\components\\transaction\\SellShare.jsx",
+              "RelativeDocumentMoniker": "onlinetradingappreact.client\\src\\components\\transaction\\SellShare.jsx",
+              "ToolTip": "C:\\Users\\Evren\\Desktop\\OnlineTradingAppReact\\onlinetradingappreact.client\\src\\components\\transaction\\SellShare.jsx",
+              "RelativeToolTip": "onlinetradingappreact.client\\src\\components\\transaction\\SellShare.jsx",
+              "ViewState": "AgIAACQAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2025-01-12T20:14:12.151Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "BuyShare.jsx",
+              "DocumentMoniker": "C:\\Users\\Evren\\Desktop\\OnlineTradingAppReact\\onlinetradingappreact.client\\src\\components\\transaction\\BuyShare.jsx",
+              "RelativeDocumentMoniker": "onlinetradingappreact.client\\src\\components\\transaction\\BuyShare.jsx",
+              "ToolTip": "C:\\Users\\Evren\\Desktop\\OnlineTradingAppReact\\onlinetradingappreact.client\\src\\components\\transaction\\BuyShare.jsx",
+              "RelativeToolTip": "onlinetradingappreact.client\\src\\components\\transaction\\BuyShare.jsx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2025-01-12T20:11:55.381Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Evren\\Desktop\\OnlineTradingAppReact\\OnlineTradingAppReact.Server\\Program.cs",
+              "RelativeDocumentMoniker": "OnlineTradingAppReact.Server\\Program.cs",
+              "ToolTip": "C:\\Users\\Evren\\Desktop\\OnlineTradingAppReact\\OnlineTradingAppReact.Server\\Program.cs",
+              "RelativeToolTip": "OnlineTradingAppReact.Server\\Program.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAcwB4AAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-12T17:05:13.943Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "TransactionDetails.jsx",
+              "DocumentMoniker": "C:\\Users\\Evren\\Desktop\\OnlineTradingAppReact\\onlinetradingappreact.client\\src\\components\\transaction\\TransactionDetails.jsx",
+              "RelativeDocumentMoniker": "onlinetradingappreact.client\\src\\components\\transaction\\TransactionDetails.jsx",
+              "ToolTip": "C:\\Users\\Evren\\Desktop\\OnlineTradingAppReact\\onlinetradingappreact.client\\src\\components\\transaction\\TransactionDetails.jsx",
+              "RelativeToolTip": "onlinetradingappreact.client\\src\\components\\transaction\\TransactionDetails.jsx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2025-01-12T20:14:41.386Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "api.js",
+              "DocumentMoniker": "C:\\Users\\Evren\\Desktop\\OnlineTradingAppReact\\onlinetradingappreact.client\\src\\services\\api.js",
+              "RelativeDocumentMoniker": "onlinetradingappreact.client\\src\\services\\api.js",
+              "ToolTip": "C:\\Users\\Evren\\Desktop\\OnlineTradingAppReact\\onlinetradingappreact.client\\src\\services\\api.js",
+              "RelativeToolTip": "onlinetradingappreact.client\\src\\services\\api.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-01-12T19:07:27.51Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ShareCreate.jsx",
+              "DocumentMoniker": "C:\\Users\\Evren\\Desktop\\OnlineTradingAppReact\\onlinetradingappreact.client\\src\\components\\share\\ShareCreate.jsx",
+              "RelativeDocumentMoniker": "onlinetradingappreact.client\\src\\components\\share\\ShareCreate.jsx",
+              "ToolTip": "C:\\Users\\Evren\\Desktop\\OnlineTradingAppReact\\onlinetradingappreact.client\\src\\components\\share\\ShareCreate.jsx",
+              "RelativeToolTip": "onlinetradingappreact.client\\src\\components\\share\\ShareCreate.jsx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2025-01-12T19:39:43.899Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ShareController.cs",
+              "DocumentMoniker": "C:\\Users\\Evren\\Desktop\\OnlineTradingAppReact\\OnlineTradingAppReact.Server\\Controllers\\ShareController.cs",
+              "RelativeDocumentMoniker": "OnlineTradingAppReact.Server\\Controllers\\ShareController.cs",
+              "ToolTip": "C:\\Users\\Evren\\Desktop\\OnlineTradingAppReact\\OnlineTradingAppReact.Server\\Controllers\\ShareController.cs",
+              "RelativeToolTip": "OnlineTradingAppReact.Server\\Controllers\\ShareController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADkAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-12T17:43:15.593Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "TransactionList.jsx",
+              "DocumentMoniker": "C:\\Users\\Evren\\Desktop\\OnlineTradingAppReact\\onlinetradingappreact.client\\src\\components\\transaction\\TransactionList.jsx",
+              "RelativeDocumentMoniker": "onlinetradingappreact.client\\src\\components\\transaction\\TransactionList.jsx",
+              "ToolTip": "C:\\Users\\Evren\\Desktop\\OnlineTradingAppReact\\onlinetradingappreact.client\\src\\components\\transaction\\TransactionList.jsx",
+              "RelativeToolTip": "onlinetradingappreact.client\\src\\components\\transaction\\TransactionList.jsx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2025-01-12T20:10:22.666Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "eslint.config.js",
+              "DocumentMoniker": "C:\\Users\\Evren\\Desktop\\OnlineTradingAppReact\\onlinetradingappreact.client\\eslint.config.js",
+              "RelativeDocumentMoniker": "onlinetradingappreact.client\\eslint.config.js",
+              "ToolTip": "C:\\Users\\Evren\\Desktop\\OnlineTradingAppReact\\onlinetradingappreact.client\\eslint.config.js",
+              "RelativeToolTip": "onlinetradingappreact.client\\eslint.config.js",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAuwB8AAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-01-20T05:28:46.428Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "App.jsx",
+              "DocumentMoniker": "C:\\Users\\Evren\\Desktop\\OnlineTradingAppReact\\onlinetradingappreact.client\\src\\App.jsx",
+              "RelativeDocumentMoniker": "onlinetradingappreact.client\\src\\App.jsx",
+              "ToolTip": "C:\\Users\\Evren\\Desktop\\OnlineTradingAppReact\\onlinetradingappreact.client\\src\\App.jsx",
+              "RelativeToolTip": "onlinetradingappreact.client\\src\\App.jsx",
+              "ViewState": "AgIAABIAAAAAAAAAAAAqwCUAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2025-01-12T18:22:32.209Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "PortfolioList.jsx",
+              "DocumentMoniker": "C:\\Users\\Evren\\Desktop\\OnlineTradingAppReact\\onlinetradingappreact.client\\src\\components\\portfolio\\PortfolioList.jsx",
+              "RelativeDocumentMoniker": "onlinetradingappreact.client\\src\\components\\portfolio\\PortfolioList.jsx",
+              "ToolTip": "C:\\Users\\Evren\\Desktop\\OnlineTradingAppReact\\onlinetradingappreact.client\\src\\components\\portfolio\\PortfolioList.jsx",
+              "RelativeToolTip": "onlinetradingappreact.client\\src\\components\\portfolio\\PortfolioList.jsx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAE0AAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2025-01-12T18:44:06.538Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "PortfolioEdit.jsx",
+              "DocumentMoniker": "C:\\Users\\Evren\\Desktop\\OnlineTradingAppReact\\onlinetradingappreact.client\\src\\components\\portfolio\\PortfolioEdit.jsx",
+              "RelativeDocumentMoniker": "onlinetradingappreact.client\\src\\components\\portfolio\\PortfolioEdit.jsx",
+              "ToolTip": "C:\\Users\\Evren\\Desktop\\OnlineTradingAppReact\\onlinetradingappreact.client\\src\\components\\portfolio\\PortfolioEdit.jsx",
+              "RelativeToolTip": "onlinetradingappreact.client\\src\\components\\portfolio\\PortfolioEdit.jsx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFsAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2025-01-12T19:10:28.605Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "20250116180413_InitialCreateaaa.cs",
+              "DocumentMoniker": "C:\\Users\\Evren\\Desktop\\OnlineTradingAppReact\\OnlineTradingAppReact.Server\\Migrations\\20250116180413_InitialCreateaaa.cs",
+              "RelativeDocumentMoniker": "OnlineTradingAppReact.Server\\Migrations\\20250116180413_InitialCreateaaa.cs",
+              "ToolTip": "C:\\Users\\Evren\\Desktop\\OnlineTradingAppReact\\OnlineTradingAppReact.Server\\Migrations\\20250116180413_InitialCreateaaa.cs",
+              "RelativeToolTip": "OnlineTradingAppReact.Server\\Migrations\\20250116180413_InitialCreateaaa.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-16T18:04:13.401Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "OnlineTradingAppReact.Server.http",
+              "DocumentMoniker": "C:\\Users\\Evren\\Desktop\\OnlineTradingAppReact\\OnlineTradingAppReact.Server\\OnlineTradingAppReact.Server.http",
+              "RelativeDocumentMoniker": "OnlineTradingAppReact.Server\\OnlineTradingAppReact.Server.http",
+              "ToolTip": "C:\\Users\\Evren\\Desktop\\OnlineTradingAppReact\\OnlineTradingAppReact.Server\\OnlineTradingAppReact.Server.http",
+              "RelativeToolTip": "OnlineTradingAppReact.Server\\OnlineTradingAppReact.Server.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2025-01-12T18:14:52.819Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "react-dom.development.js",
+              "DocumentMoniker": "C:\\Users\\erenk\\source\\repos\\OnlineTradingAppReact\\onlinetradingappreact.client\\node_modules\\react-dom\\cjs\\react-dom.development.js",
+              "RelativeDocumentMoniker": "..\\..\\..\\erenk\\source\\repos\\OnlineTradingAppReact\\onlinetradingappreact.client\\node_modules\\react-dom\\cjs\\react-dom.development.js",
+              "ToolTip": "C:\\Users\\erenk\\source\\repos\\OnlineTradingAppReact\\onlinetradingappreact.client\\node_modules\\react-dom\\cjs\\react-dom.development.js",
+              "RelativeToolTip": "..\\..\\..\\erenk\\source\\repos\\OnlineTradingAppReact\\onlinetradingappreact.client\\node_modules\\react-dom\\cjs\\react-dom.development.js",
+              "ViewState": "AgIAAEVpAAAAAAAAAAAlwFFpAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-01-12T20:37:49.846Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "UserList.jsx",
+              "DocumentMoniker": "C:\\Users\\Evren\\Desktop\\OnlineTradingAppReact\\onlinetradingappreact.client\\src\\components\\user\\UserList.jsx",
+              "RelativeDocumentMoniker": "onlinetradingappreact.client\\src\\components\\user\\UserList.jsx",
+              "ToolTip": "C:\\Users\\Evren\\Desktop\\OnlineTradingAppReact\\onlinetradingappreact.client\\src\\components\\user\\UserList.jsx",
+              "RelativeToolTip": "onlinetradingappreact.client\\src\\components\\user\\UserList.jsx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2025-01-12T20:19:29.116Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "UserEdit.jsx",
+              "DocumentMoniker": "C:\\Users\\Evren\\Desktop\\OnlineTradingAppReact\\onlinetradingappreact.client\\src\\components\\user\\UserEdit.jsx",
+              "RelativeDocumentMoniker": "onlinetradingappreact.client\\src\\components\\user\\UserEdit.jsx",
+              "ToolTip": "C:\\Users\\Evren\\Desktop\\OnlineTradingAppReact\\onlinetradingappreact.client\\src\\components\\user\\UserEdit.jsx",
+              "RelativeToolTip": "onlinetradingappreact.client\\src\\components\\user\\UserEdit.jsx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2025-01-12T20:21:08.437Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "UserDetails.jsx",
+              "DocumentMoniker": "C:\\Users\\Evren\\Desktop\\OnlineTradingAppReact\\onlinetradingappreact.client\\src\\components\\user\\UserDetails.jsx",
+              "RelativeDocumentMoniker": "onlinetradingappreact.client\\src\\components\\user\\UserDetails.jsx",
+              "ToolTip": "C:\\Users\\Evren\\Desktop\\OnlineTradingAppReact\\onlinetradingappreact.client\\src\\components\\user\\UserDetails.jsx",
+              "RelativeToolTip": "onlinetradingappreact.client\\src\\components\\user\\UserDetails.jsx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2025-01-12T20:21:27.278Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "UserCreate.jsx",
+              "DocumentMoniker": "C:\\Users\\Evren\\Desktop\\OnlineTradingAppReact\\onlinetradingappreact.client\\src\\components\\user\\UserCreate.jsx",
+              "RelativeDocumentMoniker": "onlinetradingappreact.client\\src\\components\\user\\UserCreate.jsx",
+              "ToolTip": "C:\\Users\\Evren\\Desktop\\OnlineTradingAppReact\\onlinetradingappreact.client\\src\\components\\user\\UserCreate.jsx",
+              "RelativeToolTip": "onlinetradingappreact.client\\src\\components\\user\\UserCreate.jsx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2025-01-12T20:20:51.915Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "ShareEdit.jsx",
+              "DocumentMoniker": "C:\\Users\\Evren\\Desktop\\OnlineTradingAppReact\\onlinetradingappreact.client\\src\\components\\share\\ShareEdit.jsx",
+              "RelativeDocumentMoniker": "onlinetradingappreact.client\\src\\components\\share\\ShareEdit.jsx",
+              "ToolTip": "C:\\Users\\Evren\\Desktop\\OnlineTradingAppReact\\onlinetradingappreact.client\\src\\components\\share\\ShareEdit.jsx",
+              "RelativeToolTip": "onlinetradingappreact.client\\src\\components\\share\\ShareEdit.jsx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2025-01-12T19:41:39.095Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "ShareList.jsx",
+              "DocumentMoniker": "C:\\Users\\Evren\\Desktop\\OnlineTradingAppReact\\onlinetradingappreact.client\\src\\components\\share\\ShareList.jsx",
+              "RelativeDocumentMoniker": "onlinetradingappreact.client\\src\\components\\share\\ShareList.jsx",
+              "ToolTip": "C:\\Users\\Evren\\Desktop\\OnlineTradingAppReact\\onlinetradingappreact.client\\src\\components\\share\\ShareList.jsx",
+              "RelativeToolTip": "onlinetradingappreact.client\\src\\components\\share\\ShareList.jsx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2025-01-12T19:39:16.688Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "ShareDetails.jsx",
+              "DocumentMoniker": "C:\\Users\\Evren\\Desktop\\OnlineTradingAppReact\\onlinetradingappreact.client\\src\\components\\share\\ShareDetails.jsx",
+              "RelativeDocumentMoniker": "onlinetradingappreact.client\\src\\components\\share\\ShareDetails.jsx",
+              "ToolTip": "C:\\Users\\Evren\\Desktop\\OnlineTradingAppReact\\onlinetradingappreact.client\\src\\components\\share\\ShareDetails.jsx",
+              "RelativeToolTip": "onlinetradingappreact.client\\src\\components\\share\\ShareDetails.jsx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2025-01-12T19:42:06.628Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "PortfolioDetails.jsx",
+              "DocumentMoniker": "C:\\Users\\Evren\\Desktop\\OnlineTradingAppReact\\onlinetradingappreact.client\\src\\components\\portfolio\\PortfolioDetails.jsx",
+              "RelativeDocumentMoniker": "onlinetradingappreact.client\\src\\components\\portfolio\\PortfolioDetails.jsx",
+              "ToolTip": "C:\\Users\\Evren\\Desktop\\OnlineTradingAppReact\\onlinetradingappreact.client\\src\\components\\portfolio\\PortfolioDetails.jsx",
+              "RelativeToolTip": "onlinetradingappreact.client\\src\\components\\portfolio\\PortfolioDetails.jsx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACoAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2025-01-12T19:10:52.581Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "PortfolioCreate.jsx",
+              "DocumentMoniker": "C:\\Users\\Evren\\Desktop\\OnlineTradingAppReact\\onlinetradingappreact.client\\src\\components\\portfolio\\PortfolioCreate.jsx",
+              "RelativeDocumentMoniker": "onlinetradingappreact.client\\src\\components\\portfolio\\PortfolioCreate.jsx",
+              "ToolTip": "C:\\Users\\Evren\\Desktop\\OnlineTradingAppReact\\onlinetradingappreact.client\\src\\components\\portfolio\\PortfolioCreate.jsx",
+              "RelativeToolTip": "onlinetradingappreact.client\\src\\components\\portfolio\\PortfolioCreate.jsx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGYAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2025-01-12T19:09:59.289Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "shareService.js",
+              "DocumentMoniker": "C:\\Users\\Evren\\Desktop\\OnlineTradingAppReact\\onlinetradingappreact.client\\src\\services\\shareService.js",
+              "RelativeDocumentMoniker": "onlinetradingappreact.client\\src\\services\\shareService.js",
+              "ToolTip": "C:\\Users\\Evren\\Desktop\\OnlineTradingAppReact\\onlinetradingappreact.client\\src\\services\\shareService.js",
+              "RelativeToolTip": "onlinetradingappreact.client\\src\\services\\shareService.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-01-12T19:58:26.761Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "transactionService.js",
+              "DocumentMoniker": "C:\\Users\\Evren\\Desktop\\OnlineTradingAppReact\\onlinetradingappreact.client\\src\\services\\transactionService.js",
+              "RelativeDocumentMoniker": "onlinetradingappreact.client\\src\\services\\transactionService.js",
+              "ToolTip": "C:\\Users\\Evren\\Desktop\\OnlineTradingAppReact\\onlinetradingappreact.client\\src\\services\\transactionService.js",
+              "RelativeToolTip": "onlinetradingappreact.client\\src\\services\\transactionService.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-01-12T20:09:56.114Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "main.jsx",
+              "DocumentMoniker": "C:\\Users\\Evren\\Desktop\\OnlineTradingAppReact\\onlinetradingappreact.client\\src\\main.jsx",
+              "RelativeDocumentMoniker": "onlinetradingappreact.client\\src\\main.jsx",
+              "ToolTip": "C:\\Users\\Evren\\Desktop\\OnlineTradingAppReact\\onlinetradingappreact.client\\src\\main.jsx",
+              "RelativeToolTip": "onlinetradingappreact.client\\src\\main.jsx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2025-01-12T20:30:24.615Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "onlinetradingappreact.client.esproj",
+              "DocumentMoniker": "C:\\Users\\Evren\\Desktop\\OnlineTradingAppReact\\onlinetradingappreact.client\\onlinetradingappreact.client.esproj",
+              "RelativeDocumentMoniker": "onlinetradingappreact.client\\onlinetradingappreact.client.esproj",
+              "ToolTip": "C:\\Users\\Evren\\Desktop\\OnlineTradingAppReact\\onlinetradingappreact.client\\onlinetradingappreact.client.esproj",
+              "RelativeToolTip": "onlinetradingappreact.client\\onlinetradingappreact.client.esproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-01-12T19:17:27.805Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "portfolioService.js",
+              "DocumentMoniker": "C:\\Users\\Evren\\Desktop\\OnlineTradingAppReact\\onlinetradingappreact.client\\src\\services\\portfolioService.js",
+              "RelativeDocumentMoniker": "onlinetradingappreact.client\\src\\services\\portfolioService.js",
+              "ToolTip": "C:\\Users\\Evren\\Desktop\\OnlineTradingAppReact\\onlinetradingappreact.client\\src\\services\\portfolioService.js",
+              "RelativeToolTip": "onlinetradingappreact.client\\src\\services\\portfolioService.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-01-12T18:54:48.691Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "CHANGELOG.md",
+              "DocumentMoniker": "C:\\Users\\Evren\\Desktop\\OnlineTradingAppReact\\onlinetradingappreact.client\\CHANGELOG.md",
+              "RelativeDocumentMoniker": "onlinetradingappreact.client\\CHANGELOG.md",
+              "ToolTip": "C:\\Users\\Evren\\Desktop\\OnlineTradingAppReact\\onlinetradingappreact.client\\CHANGELOG.md",
+              "RelativeToolTip": "onlinetradingappreact.client\\CHANGELOG.md",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAAAgAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2025-01-12T18:22:48.521Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "20250112182040_InitialCreate2.cs",
+              "DocumentMoniker": "C:\\Users\\erenk\\source\\repos\\OnlineTradingAppReact\\OnlineTradingAppReact.Server\\Migrations\\20250112182040_InitialCreate2.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\erenk\\source\\repos\\OnlineTradingAppReact\\OnlineTradingAppReact.Server\\Migrations\\20250112182040_InitialCreate2.cs",
+              "ToolTip": "C:\\Users\\erenk\\source\\repos\\OnlineTradingAppReact\\OnlineTradingAppReact.Server\\Migrations\\20250112182040_InitialCreate2.cs",
+              "RelativeToolTip": "..\\..\\..\\erenk\\source\\repos\\OnlineTradingAppReact\\OnlineTradingAppReact.Server\\Migrations\\20250112182040_InitialCreate2.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-12T18:20:41.004Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\Users\\Evren\\Desktop\\OnlineTradingAppReact\\OnlineTradingAppReact.Server\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "OnlineTradingAppReact.Server\\Controllers\\UserController.cs",
+              "ToolTip": "C:\\Users\\Evren\\Desktop\\OnlineTradingAppReact\\OnlineTradingAppReact.Server\\Controllers\\UserController.cs",
+              "RelativeToolTip": "OnlineTradingAppReact.Server\\Controllers\\UserController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-12T17:38:50.861Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "ApiResponse.cs",
+              "DocumentMoniker": "C:\\Users\\Evren\\Desktop\\OnlineTradingAppReact\\OnlineTradingAppReact.Server\\Models\\ApiResponse.cs",
+              "RelativeDocumentMoniker": "OnlineTradingAppReact.Server\\Models\\ApiResponse.cs",
+              "ToolTip": "C:\\Users\\Evren\\Desktop\\OnlineTradingAppReact\\OnlineTradingAppReact.Server\\Models\\ApiResponse.cs",
+              "RelativeToolTip": "OnlineTradingAppReact.Server\\Models\\ApiResponse.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAowBsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-12T17:36:08.595Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "vite.config.js",
+              "DocumentMoniker": "C:\\Users\\Evren\\Desktop\\OnlineTradingAppReact\\onlinetradingappreact.client\\vite.config.js",
+              "RelativeDocumentMoniker": "onlinetradingappreact.client\\vite.config.js",
+              "ToolTip": "C:\\Users\\Evren\\Desktop\\OnlineTradingAppReact\\onlinetradingappreact.client\\vite.config.js",
+              "RelativeToolTip": "onlinetradingappreact.client\\vite.config.js",
+              "ViewState": "AgIAACEAAAAAAAAAAAAAADcAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-01-12T18:14:59.46Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "PortfolioController.cs",
+              "DocumentMoniker": "C:\\Users\\Evren\\Desktop\\OnlineTradingAppReact\\OnlineTradingAppReact.Server\\Controllers\\PortfolioController.cs",
+              "RelativeDocumentMoniker": "OnlineTradingAppReact.Server\\Controllers\\PortfolioController.cs",
+              "ToolTip": "C:\\Users\\Evren\\Desktop\\OnlineTradingAppReact\\OnlineTradingAppReact.Server\\Controllers\\PortfolioController.cs",
+              "RelativeToolTip": "OnlineTradingAppReact.Server\\Controllers\\PortfolioController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-12T17:45:44.512Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "launch.json",
+              "DocumentMoniker": "C:\\Users\\Evren\\Desktop\\OnlineTradingAppReact\\onlinetradingappreact.client\\.vscode\\launch.json",
+              "RelativeDocumentMoniker": "onlinetradingappreact.client\\.vscode\\launch.json",
+              "ToolTip": "C:\\Users\\Evren\\Desktop\\OnlineTradingAppReact\\onlinetradingappreact.client\\.vscode\\launch.json",
+              "RelativeToolTip": "onlinetradingappreact.client\\.vscode\\launch.json",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA4AAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-01-12T18:14:27.22Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\Evren\\Desktop\\OnlineTradingAppReact\\OnlineTradingAppReact.Server\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "OnlineTradingAppReact.Server\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\Evren\\Desktop\\OnlineTradingAppReact\\OnlineTradingAppReact.Server\\Properties\\launchSettings.json",
+              "RelativeToolTip": "OnlineTradingAppReact.Server\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAAAAcAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-01-12T18:14:32.673Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "20250112172021_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\erenk\\source\\repos\\OnlineTradingAppReact\\OnlineTradingAppReact.Server\\Migrations\\20250112172021_InitialCreate.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\erenk\\source\\repos\\OnlineTradingAppReact\\OnlineTradingAppReact.Server\\Migrations\\20250112172021_InitialCreate.cs",
+              "ToolTip": "C:\\Users\\erenk\\source\\repos\\OnlineTradingAppReact\\OnlineTradingAppReact.Server\\Migrations\\20250112172021_InitialCreate.cs",
+              "RelativeToolTip": "..\\..\\..\\erenk\\source\\repos\\OnlineTradingAppReact\\OnlineTradingAppReact.Server\\Migrations\\20250112172021_InitialCreate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-12T17:20:21.188Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "Transaction.cs",
+              "DocumentMoniker": "C:\\Users\\Evren\\Desktop\\OnlineTradingAppReact\\OnlineTradingAppReact.Server\\Models\\Transaction.cs",
+              "RelativeDocumentMoniker": "OnlineTradingAppReact.Server\\Models\\Transaction.cs",
+              "ToolTip": "C:\\Users\\Evren\\Desktop\\OnlineTradingAppReact\\OnlineTradingAppReact.Server\\Models\\Transaction.cs",
+              "RelativeToolTip": "OnlineTradingAppReact.Server\\Models\\Transaction.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-12T17:10:52.17Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "PortfolioShare.cs",
+              "DocumentMoniker": "C:\\Users\\Evren\\Desktop\\OnlineTradingAppReact\\OnlineTradingAppReact.Server\\Models\\PortfolioShare.cs",
+              "RelativeDocumentMoniker": "OnlineTradingAppReact.Server\\Models\\PortfolioShare.cs",
+              "ToolTip": "C:\\Users\\Evren\\Desktop\\OnlineTradingAppReact\\OnlineTradingAppReact.Server\\Models\\PortfolioShare.cs",
+              "RelativeToolTip": "OnlineTradingAppReact.Server\\Models\\PortfolioShare.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-12T17:10:41.25Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "OnlineTradingAppReact.Server.csproj",
+              "DocumentMoniker": "C:\\Users\\Evren\\Desktop\\OnlineTradingAppReact\\OnlineTradingAppReact.Server\\OnlineTradingAppReact.Server.csproj",
+              "RelativeDocumentMoniker": "OnlineTradingAppReact.Server\\OnlineTradingAppReact.Server.csproj",
+              "ToolTip": "C:\\Users\\Evren\\Desktop\\OnlineTradingAppReact\\OnlineTradingAppReact.Server\\OnlineTradingAppReact.Server.csproj",
+              "RelativeToolTip": "OnlineTradingAppReact.Server\\OnlineTradingAppReact.Server.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-01-12T16:50:23.984Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "TransactionController.cs",
+              "DocumentMoniker": "C:\\Users\\Evren\\Desktop\\OnlineTradingAppReact\\OnlineTradingAppReact.Server\\Controllers\\TransactionController.cs",
+              "RelativeDocumentMoniker": "OnlineTradingAppReact.Server\\Controllers\\TransactionController.cs",
+              "ToolTip": "C:\\Users\\Evren\\Desktop\\OnlineTradingAppReact\\OnlineTradingAppReact.Server\\Controllers\\TransactionController.cs",
+              "RelativeToolTip": "OnlineTradingAppReact.Server\\Controllers\\TransactionController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-12T17:46:34.557Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "PortfolioShareController.cs",
+              "DocumentMoniker": "C:\\Users\\Evren\\Desktop\\OnlineTradingAppReact\\OnlineTradingAppReact.Server\\Controllers\\PortfolioShareController.cs",
+              "RelativeDocumentMoniker": "OnlineTradingAppReact.Server\\Controllers\\PortfolioShareController.cs",
+              "ToolTip": "C:\\Users\\Evren\\Desktop\\OnlineTradingAppReact\\OnlineTradingAppReact.Server\\Controllers\\PortfolioShareController.cs",
+              "RelativeToolTip": "OnlineTradingAppReact.Server\\Controllers\\PortfolioShareController.cs",
+              "ViewState": "AgIAAE8AAAAAAAAAAAAcwBQAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-12T18:05:06.877Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "Share.cs",
+              "DocumentMoniker": "C:\\Users\\Evren\\Desktop\\OnlineTradingAppReact\\OnlineTradingAppReact.Server\\Models\\Share.cs",
+              "RelativeDocumentMoniker": "OnlineTradingAppReact.Server\\Models\\Share.cs",
+              "ToolTip": "C:\\Users\\Evren\\Desktop\\OnlineTradingAppReact\\OnlineTradingAppReact.Server\\Models\\Share.cs",
+              "RelativeToolTip": "OnlineTradingAppReact.Server\\Models\\Share.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-12T17:10:29.51Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "Portfolio.cs",
+              "DocumentMoniker": "C:\\Users\\Evren\\Desktop\\OnlineTradingAppReact\\OnlineTradingAppReact.Server\\Models\\Portfolio.cs",
+              "RelativeDocumentMoniker": "OnlineTradingAppReact.Server\\Models\\Portfolio.cs",
+              "ToolTip": "C:\\Users\\Evren\\Desktop\\OnlineTradingAppReact\\OnlineTradingAppReact.Server\\Models\\Portfolio.cs",
+              "RelativeToolTip": "OnlineTradingAppReact.Server\\Models\\Portfolio.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-12T17:10:16.961Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\Evren\\Desktop\\OnlineTradingAppReact\\OnlineTradingAppReact.Server\\Models\\User.cs",
+              "RelativeDocumentMoniker": "OnlineTradingAppReact.Server\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\Evren\\Desktop\\OnlineTradingAppReact\\OnlineTradingAppReact.Server\\Models\\User.cs",
+              "RelativeToolTip": "OnlineTradingAppReact.Server\\Models\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-12T17:10:02.573Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
