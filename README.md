@@ -23,11 +23,3 @@ The **Transactions Page** displays the buy and sell transactions of shares. User
 ![Users](https://github.com/keskinEvren/online-trading-app-react/blob/main/readme-assets/users.PNG?raw=true)
 
 The **Users Page** lists the registered users of the application. Users can search by name or email and view user details.
-
-## Installation
-
-To run the project on your local machine, follow these steps:
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/keskinEvren/online-trading-app-react.git
